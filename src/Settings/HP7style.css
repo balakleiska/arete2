@@ -1,0 +1,346 @@
+.homepage-desktop {
+    background-color: #0b0b0b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .homepage-desktop .overlap-wrapper {
+    background-color: #0b0b0b;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .homepage-desktop .overlap {
+    height: 1024px;
+    left: 83px;
+    position: relative;
+    top: -72px;
+    width: 1458px;
+  }
+  
+  .homepage-desktop .background {
+    height: 1024px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .homepage-desktop .overlap-group {
+    height: 1024px;
+    left: -101px;
+    position: relative;
+    top: 72px;
+  }
+  
+  .homepage-desktop .ellipse {
+    height: 525px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 579px;
+  }
+  
+  .homepage-desktop .img {
+    height: 488px;
+    left: 777px;
+    position: absolute;
+    top: 536px;
+    width: 663px;
+  }
+  
+  .homepage-desktop .ellipse-2 {
+    height: 534px;
+    left: 980px;
+    position: absolute;
+    top: 0;
+    width: 439px;
+  }
+  
+  .homepage-desktop .ellipse-3 {
+    height: 488px;
+    left: 39px;
+    position: absolute;
+    top: 536px;
+    width: 659px;
+  }
+  
+  .homepage-desktop .ellipse-4 {
+    height: 329px;
+    left: 236px;
+    position: absolute;
+    top: 0;
+    width: 476px;
+  }
+  
+  .homepage-desktop .ellipse-5 {
+    height: 570px;
+    left: 291px;
+    position: absolute;
+    top: 440px;
+    width: 737px;
+  }
+  
+  .homepage-desktop .ellipse-6 {
+    height: 208px;
+    left: 1059px;
+    position: absolute;
+    top: 0;
+    width: 381px;
+  }
+  
+  .homepage-desktop .rectangle {
+    background-color: #000000;
+    height: 789px;
+    left: 0;
+    position: absolute;
+    top: 184px;
+    width: 1256px;
+  }
+  
+  .homepage-desktop .star {
+    height: 44px;
+    left: 27px;
+    position: absolute;
+    top: 221px;
+    width: 48px;
+  }
+  
+  .homepage-desktop .text-wrapper {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 30px;
+    left: 495px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 225px;
+    white-space: nowrap;
+    width: 265px;
+  }
+  
+  .homepage-desktop .account {
+    height: 151px;
+    left: 313px;
+    position: absolute;
+    top: 421px;
+    width: 329px;
+  }
+  
+  .homepage-desktop .div {
+    color: #ffffff;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 30px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+    width: 114px;
+  }
+  
+  .homepage-desktop .account-selection {
+    height: 93px;
+    left: 1px;
+    position: absolute;
+    top: 75px;
+    width: 329px;
+  }
+  
+  .homepage-desktop .edit-profile {
+    height: 27px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100px;
+  }
+  
+  .homepage-desktop .text-wrapper-2 {
+    color: #ffffffcc;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 21px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.8;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 100px;
+  }
+  
+  .homepage-desktop .manage-sub {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 142px;
+    width: 168px;
+  }
+  
+  .homepage-desktop .text-wrapper-3 {
+    color: #ffffffcc;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 19px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.8;
+    position: absolute;
+    top: -4px;
+    width: 207px;
+  }
+  
+  .homepage-desktop .text-wrapper-4 {
+    color: #ffffffcc;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 24px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.8;
+    position: absolute;
+    top: 66px;
+    white-space: nowrap;
+    width: 185px;
+  }
+  
+  .homepage-desktop .about-us {
+    height: 178px;
+    left: 689px;
+    position: absolute;
+    top: 436px;
+    width: 329px;
+  }
+  
+  .homepage-desktop .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 30px;
+    left: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    top: -16px;
+    width: 114px;
+  }
+  
+  .homepage-desktop .selection {
+    height: 129px;
+    left: 12px;
+    position: absolute;
+    top: 59px;
+    width: 329px;
+  }
+  
+  .homepage-desktop .privacy-policy {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 329px;
+  }
+  
+  .homepage-desktop .text-wrapper-6 {
+    color: #ffffffcc;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 21px;
+    left: -15px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+    white-space: nowrap;
+    width: 140px;
+  }
+  
+  .homepage-desktop .licenses {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: 129px;
+    width: 329px;
+  }
+  
+  .homepage-desktop .text-wrapper-7 {
+    color: #ffffffcc;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 21px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+    white-space: nowrap;
+    width: 100px;
+  }
+  
+  .homepage-desktop .contact-us {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: 72px;
+    width: 329px;
+  }
+  
+  .homepage-desktop .terms-of-use {
+    height: 21px;
+    left: -40px;
+    position: absolute;
+    top: 64px;
+    width: 329px;
+  }
+  
+  .homepage-desktop .text-wrapper-8 {
+    color: #ffffffcc;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 21px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+    white-space: nowrap;
+    width: 187px;
+  }
+  
+  .homepage-desktop .science-brain-icon {
+    height: 62px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 288px;
+    width: 72px;
+  }
+  

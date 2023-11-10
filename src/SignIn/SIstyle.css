@@ -1,0 +1,212 @@
+.sign-in {
+    background-color: #0b0b0b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sign-in .overlap-wrapper {
+    background-color: #0b0b0b;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .sign-in .overlap {
+    height: 1024px;
+    left: 83px;
+    position: relative;
+    top: -72px;
+    width: 1458px;
+  }
+  
+  .sign-in .background {
+    height: 1024px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .sign-in .overlap-group {
+    height: 1024px;
+    left: -101px;
+    position: relative;
+    top: 72px;
+  }
+  
+  .sign-in .ellipse {
+    height: 525px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 579px;
+  }
+  
+  .sign-in .img {
+    height: 488px;
+    left: 777px;
+    position: absolute;
+    top: 536px;
+    width: 663px;
+  }
+  
+  .sign-in .ellipse-2 {
+    height: 534px;
+    left: 980px;
+    position: absolute;
+    top: 0;
+    width: 439px;
+  }
+  
+  .sign-in .ellipse-3 {
+    height: 488px;
+    left: 39px;
+    position: absolute;
+    top: 536px;
+    width: 659px;
+  }
+  
+  .sign-in .ellipse-4 {
+    height: 329px;
+    left: 236px;
+    position: absolute;
+    top: 0;
+    width: 476px;
+  }
+  
+  .sign-in .ellipse-5 {
+    height: 570px;
+    left: 291px;
+    position: absolute;
+    top: 440px;
+    width: 737px;
+  }
+  
+  .sign-in .ellipse-6 {
+    height: 208px;
+    left: 1059px;
+    position: absolute;
+    top: 0;
+    width: 381px;
+  }
+  
+  .sign-in .rectangle {
+    background-color: #000000;
+    height: 789px;
+    left: 0;
+    position: absolute;
+    top: 184px;
+    width: 1256px;
+  }
+  
+  .sign-in .text-wrapper {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    height: 75px;
+    left: 542px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 281px;
+    width: 173px;
+  }
+  
+  .sign-in .div {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 33px;
+    left: 472px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 356px;
+    width: 313px;
+  }
+  
+  .sign-in .text-wrapper-2 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 21px;
+    font-weight: 400;
+    height: 23px;
+    left: 589px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 500px;
+    width: 96px;
+  }
+  
+  .sign-in .text-wrapper-3 {
+    color: #ffffffb2;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 24px;
+    left: 525px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.9;
+    position: absolute;
+    text-align: center;
+    top: 611px;
+    width: 224px;
+  }
+  
+  .sign-in .text-wrapper-4 {
+    color: #ffffffb2;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 24px;
+    left: 525px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.9;
+    position: absolute;
+    text-align: center;
+    top: 695px;
+    width: 224px;
+  }
+  
+  .sign-in .flexcontainer {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    height: 51px;
+    left: 398px;
+    position: absolute;
+    top: 891px;
+    width: 478px;
+  }
+  
+  .sign-in .text {
+    align-self: stretch;
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+  }
+  
+  .sign-in .span {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  

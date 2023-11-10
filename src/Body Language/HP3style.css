@@ -1,0 +1,293 @@
+.homepage-desktop {
+    background-color: #0b0b0b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .homepage-desktop .overlap-wrapper {
+    background-color: #0b0b0b;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .homepage-desktop .overlap {
+    height: 1024px;
+    left: 83px;
+    position: relative;
+    top: -72px;
+    width: 1458px;
+  }
+  
+  .homepage-desktop .background {
+    height: 1024px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .homepage-desktop .overlap-group {
+    height: 1024px;
+    left: -101px;
+    position: relative;
+    top: 72px;
+  }
+  
+  .homepage-desktop .ellipse {
+    height: 525px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 579px;
+  }
+  
+  .homepage-desktop .img {
+    height: 488px;
+    left: 777px;
+    position: absolute;
+    top: 536px;
+    width: 663px;
+  }
+  
+  .homepage-desktop .ellipse-2 {
+    height: 534px;
+    left: 980px;
+    position: absolute;
+    top: 0;
+    width: 439px;
+  }
+  
+  .homepage-desktop .ellipse-3 {
+    height: 488px;
+    left: 39px;
+    position: absolute;
+    top: 536px;
+    width: 659px;
+  }
+  
+  .homepage-desktop .ellipse-4 {
+    height: 329px;
+    left: 236px;
+    position: absolute;
+    top: 0;
+    width: 476px;
+  }
+  
+  .homepage-desktop .ellipse-5 {
+    height: 570px;
+    left: 291px;
+    position: absolute;
+    top: 440px;
+    width: 737px;
+  }
+  
+  .homepage-desktop .ellipse-6 {
+    height: 208px;
+    left: 1059px;
+    position: absolute;
+    top: 0;
+    width: 381px;
+  }
+  
+  .homepage-desktop .rectangle {
+    background-color: #000000;
+    height: 789px;
+    left: 0;
+    position: absolute;
+    top: 184px;
+    width: 1256px;
+  }
+  
+  .homepage-desktop .frame {
+    box-shadow: 0px 4px 4px #00000040;
+    height: 226px;
+    left: 327px;
+    position: absolute;
+    top: 359px;
+    width: 272px;
+  }
+  
+  .homepage-desktop .div-wrapper {
+    background-image: url(./image-41.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 306px;
+    left: -30px;
+    position: relative;
+    top: -40px;
+    width: 342px;
+  }
+  
+  .homepage-desktop .text-wrapper {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 23px;
+    left: 43px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    text-shadow: 15px 15px 15px #00000040;
+    top: 208px;
+    white-space: nowrap;
+    width: 143px;
+  }
+  
+  .homepage-desktop .picture {
+    background-color: #ffffff1a;
+    border-radius: 20px;
+    box-shadow: 15px 15px 15px #00000040;
+    height: 226px;
+    left: 340px;
+    position: absolute;
+    top: 629px;
+    width: 262px;
+  }
+  
+  .homepage-desktop .div {
+    height: 173px;
+    left: 21px;
+    position: relative;
+    top: 26px;
+    width: 166px;
+  }
+  
+  .homepage-desktop .image {
+    height: 173px;
+    left: 55px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 111px;
+  }
+  
+  .homepage-desktop .text-wrapper-2 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 40px;
+    left: 0;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    text-shadow: 15px 15px 15px #00000040;
+    top: 132px;
+    width: 114px;
+  }
+  
+  .homepage-desktop .img-2 {
+    height: 47px;
+    left: 29px;
+    object-fit: cover;
+    position: absolute;
+    top: 298px;
+    width: 47px;
+  }
+  
+  .homepage-desktop .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 21px;
+    left: 335px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 269px;
+    width: 570px;
+  }
+  
+  .homepage-desktop .science-brain-icon {
+    height: 62px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 208px;
+    width: 72px;
+  }
+  
+  .homepage-desktop .courses {
+    box-shadow: 0px 1px 13px #000000;
+    height: 212px;
+    left: 716px;
+    position: absolute;
+    top: 359px;
+    width: 189px;
+  }
+  
+  .homepage-desktop .overlap-2 {
+    background-image: url(./image-55.png);
+    background-size: 100% 100%;
+    height: 306px;
+    left: -101px;
+    position: relative;
+    top: -40px;
+    width: 342px;
+  }
+  
+  .homepage-desktop .text-wrapper-4 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 25px;
+    left: 62px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    text-shadow: 15px 15px 15px #00000040;
+    top: 210px;
+    white-space: nowrap;
+    width: 128px;
+  }
+  
+  .homepage-desktop .quizzes {
+    box-shadow: 0px 1px 13px #000000;
+    height: 198px;
+    left: 655px;
+    position: absolute;
+    top: 630px;
+    width: 345px;
+  }
+  
+  .homepage-desktop .overlap-3 {
+    background-image: url(./image-39.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 306px;
+    left: -40px;
+    position: relative;
+    top: -40px;
+    width: 342px;
+  }
+  
+  .homepage-desktop .text-wrapper-5 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 40px;
+    left: 61px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    text-shadow: 15px 15px 15px #00000040;
+    top: 197px;
+    width: 110px;
+  }
+  

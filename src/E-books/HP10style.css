@@ -1,0 +1,497 @@
+.people {
+    background-color: #0b0b0b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .people .overlap-wrapper {
+    background-color: #0b0b0b;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .people .overlap {
+    height: 1024px;
+    left: 83px;
+    position: relative;
+    top: -72px;
+    width: 1458px;
+  }
+  
+  .people .background {
+    height: 1024px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .people .overlap-group {
+    height: 1024px;
+    left: -101px;
+    position: relative;
+    top: 72px;
+  }
+  
+  .people .ellipse {
+    height: 525px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 579px;
+  }
+  
+  .people .img {
+    height: 488px;
+    left: 777px;
+    position: absolute;
+    top: 536px;
+    width: 663px;
+  }
+  
+  .people .ellipse-2 {
+    height: 534px;
+    left: 980px;
+    position: absolute;
+    top: 0;
+    width: 439px;
+  }
+  
+  .people .ellipse-3 {
+    height: 488px;
+    left: 39px;
+    position: absolute;
+    top: 536px;
+    width: 659px;
+  }
+  
+  .people .ellipse-4 {
+    height: 329px;
+    left: 236px;
+    position: absolute;
+    top: 0;
+    width: 476px;
+  }
+  
+  .people .ellipse-5 {
+    height: 570px;
+    left: 291px;
+    position: absolute;
+    top: 440px;
+    width: 737px;
+  }
+  
+  .people .ellipse-6 {
+    height: 208px;
+    left: 1059px;
+    position: absolute;
+    top: 0;
+    width: 381px;
+  }
+  
+  .people .rectangle {
+    background-color: #000000;
+    height: 789px;
+    left: 0;
+    position: absolute;
+    top: 184px;
+    width: 1256px;
+  }
+  
+  .people .text-wrapper {
+    color: #ffffff;
+    font-family: "Alegreya Sans SC-Thin", Helvetica;
+    font-size: 20px;
+    font-weight: 100;
+    height: 21px;
+    left: 604px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 230px;
+    white-space: nowrap;
+  }
+  
+  .people .img-2 {
+    height: 47px;
+    left: 29px;
+    object-fit: cover;
+    position: absolute;
+    top: 298px;
+    width: 47px;
+  }
+  
+  .people .div {
+    color: #ffffff;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 21px;
+    left: 352px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 269px;
+    width: 570px;
+  }
+  
+  .people .science-brain-icon {
+    height: 62px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 208px;
+    width: 72px;
+  }
+  
+  .people .frame {
+    height: 32px;
+    left: 177px;
+    position: absolute;
+    top: 353px;
+    width: 41px;
+  }
+  
+  .people .arrow-icon {
+    height: 24px;
+    left: 41px;
+    position: absolute;
+    top: -79px;
+    width: 15px;
+  }
+  
+  .people .text {
+    height: 76px;
+    left: 680px;
+    position: absolute;
+    top: 736px;
+    width: 335px;
+  }
+  
+  .people .overlap-2 {
+    background-color: #111111;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px #5f5e5e33;
+    height: 87px;
+    position: relative;
+  }
+  
+  .people .text-wrapper-2 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 46px;
+    left: 17px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    top: 9px;
+    width: 257px;
+  }
+  
+  .people .text-wrapper-3 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    height: 46px;
+    left: 64px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: right;
+    top: 37px;
+    width: 257px;
+  }
+  
+  .people .analytic-philosophy {
+    height: 76px;
+    left: 680px;
+    position: absolute;
+    top: 619px;
+    width: 335px;
+  }
+  
+  .people .text-wrapper-4 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 21px;
+    left: 18px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    top: 27px;
+    white-space: nowrap;
+  }
+  
+  .people .text-wrapper-5 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    height: 21px;
+    left: 232px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: right;
+    top: 50px;
+    white-space: nowrap;
+  }
+  
+  .people .positivism {
+    box-shadow: 0px 0px 40px #5f5e5e33;
+    height: 76px;
+    left: 263px;
+    position: absolute;
+    top: 502px;
+    width: 335px;
+  }
+  
+  .people .overlap-3 {
+    background-color: #111111;
+    border-radius: 20px;
+    height: 87px;
+    position: relative;
+  }
+  
+  .people .text-wrapper-6 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 20px;
+    left: 27px;
+    letter-spacing: -0.32px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 27px;
+    white-space: nowrap;
+  }
+  
+  .people .text-wrapper-7 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    height: 20px;
+    left: 260px;
+    letter-spacing: -0.32px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 55px;
+    white-space: nowrap;
+  }
+  
+  .people .aesthetic {
+    height: 76px;
+    left: 680px;
+    position: absolute;
+    top: 502px;
+    width: 335px;
+  }
+  
+  .people .text-wrapper-8 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    height: 20px;
+    left: 279px;
+    letter-spacing: -0.32px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 55px;
+    white-space: nowrap;
+  }
+  
+  .people .text-wrapper-9 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 20px;
+    left: 19px;
+    letter-spacing: -0.32px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 21px;
+    white-space: nowrap;
+  }
+  
+  .people .greek-philosophy {
+    height: 76px;
+    left: 263px;
+    position: absolute;
+    top: 619px;
+    width: 335px;
+  }
+  
+  .people .p {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 20px;
+    left: 16px;
+    letter-spacing: -0.32px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: absolute;
+    top: 23px;
+    width: 229px;
+  }
+  
+  .people .text-wrapper-10 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    height: 20px;
+    left: 281px;
+    letter-spacing: -0.32px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 55px;
+    white-space: nowrap;
+  }
+  
+  .people .overlap-group-wrapper {
+    height: 76px;
+    left: 680px;
+    position: absolute;
+    top: 385px;
+    width: 335px;
+  }
+  
+  .people .text-wrapper-11 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 20px;
+    left: 29px;
+    letter-spacing: -0.32px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+  }
+  
+  .people .text-wrapper-12 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    height: 20px;
+    left: 226px;
+    letter-spacing: -0.32px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: right;
+    top: 55px;
+    white-space: nowrap;
+  }
+  
+  .people .logic {
+    box-shadow: 0px 0px 20px #5f5e5e33;
+    height: 76px;
+    left: 263px;
+    position: absolute;
+    top: 385px;
+    width: 335px;
+  }
+  
+  .people .text-wrapper-13 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    height: 21px;
+    left: 201px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 54px;
+    white-space: nowrap;
+  }
+  
+  .people .how-to-think-like-a {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 42px;
+    left: 19px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    top: 17px;
+  }
+  
+  .people .ethics {
+    height: 76px;
+    left: 263px;
+    position: absolute;
+    top: 736px;
+    width: 335px;
+  }
+  
+  .people .text-wrapper-14 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    height: 21px;
+    left: 269px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 54px;
+    white-space: nowrap;
+  }
+  
+  .people .text-wrapper-15 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 21px;
+    left: 25px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    top: 32px;
+    white-space: nowrap;
+  }
+  

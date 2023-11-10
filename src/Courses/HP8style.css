@@ -1,0 +1,332 @@
+.courses {
+    background-color: #0b0b0b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .courses .overlap-wrapper {
+    background-color: #0b0b0b;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .courses .overlap {
+    height: 1024px;
+    left: 83px;
+    position: relative;
+    top: -72px;
+    width: 1458px;
+  }
+  
+  .courses .background {
+    height: 1024px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .courses .overlap-group {
+    height: 1024px;
+    left: -101px;
+    position: relative;
+    top: 72px;
+  }
+  
+  .courses .ellipse {
+    height: 525px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 579px;
+  }
+  
+  .courses .img {
+    height: 488px;
+    left: 777px;
+    position: absolute;
+    top: 536px;
+    width: 663px;
+  }
+  
+  .courses .ellipse-2 {
+    height: 534px;
+    left: 980px;
+    position: absolute;
+    top: 0;
+    width: 439px;
+  }
+  
+  .courses .ellipse-3 {
+    height: 488px;
+    left: 39px;
+    position: absolute;
+    top: 536px;
+    width: 659px;
+  }
+  
+  .courses .ellipse-4 {
+    height: 329px;
+    left: 236px;
+    position: absolute;
+    top: 0;
+    width: 476px;
+  }
+  
+  .courses .ellipse-5 {
+    height: 570px;
+    left: 291px;
+    position: absolute;
+    top: 440px;
+    width: 737px;
+  }
+  
+  .courses .ellipse-6 {
+    height: 208px;
+    left: 1059px;
+    position: absolute;
+    top: 0;
+    width: 381px;
+  }
+  
+  .courses .rectangle {
+    background-color: #000000;
+    height: 789px;
+    left: 0;
+    position: absolute;
+    top: 184px;
+    width: 1256px;
+  }
+  
+  .courses .img-2 {
+    height: 47px;
+    left: 29px;
+    object-fit: cover;
+    position: absolute;
+    top: 298px;
+    width: 47px;
+  }
+  
+  .courses .text-wrapper {
+    color: #ffffff;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 21px;
+    left: 352px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 267px;
+    width: 570px;
+  }
+  
+  .courses .science-brain-icon {
+    height: 62px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 208px;
+    width: 72px;
+  }
+  
+  .courses .frame {
+    height: 32px;
+    left: 177px;
+    position: absolute;
+    top: 353px;
+    width: 41px;
+  }
+  
+  .courses .div {
+    color: #ffffff;
+    font-family: "Alegreya Sans SC-Thin", Helvetica;
+    font-size: 20px;
+    font-weight: 100;
+    height: 21px;
+    left: 430px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: -120px;
+    white-space: nowrap;
+  }
+  
+  .courses .arrow-icon {
+    height: 24px;
+    left: 41px;
+    position: absolute;
+    top: -79px;
+    width: 15px;
+  }
+  
+  .courses .frame-2 {
+    height: 492px;
+    left: -24px;
+    position: absolute;
+    top: 32px;
+    width: 947px;
+  }
+  
+  .courses .main-quotes-wrapper {
+    background-color: #111111f2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px #5f5e5e99;
+    height: 194px;
+    left: 728px;
+    position: absolute;
+    top: 298px;
+    width: 219px;
+  }
+  
+  .courses .main-quotes {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 42px;
+    left: 62px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 75px;
+  }
+  
+  .courses .main-practises-wrapper {
+    background-color: #111111f2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px #5f5e5e80;
+    height: 194px;
+    left: 728px;
+    position: absolute;
+    top: 0;
+    width: 219px;
+  }
+  
+  .courses .main-practises {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 42px;
+    left: 53px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 75px;
+  }
+  
+  .courses .stoicism-on-emotions-wrapper {
+    background-color: #111111f2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px #5f5e5e99;
+    height: 194px;
+    left: 364px;
+    position: absolute;
+    top: 298px;
+    width: 219px;
+  }
+  
+  .courses .stoicism-on-emotions {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 42px;
+    left: 24px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 75px;
+  }
+  
+  .courses .become-stoic-wrapper {
+    background-color: #111111f2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px #5f5e5e99;
+    height: 194px;
+    left: 364px;
+    position: absolute;
+    top: 0;
+    width: 219px;
+  }
+  
+  .courses .become-stoic {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 42px;
+    left: 58px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 75px;
+  }
+  
+  .courses .div-wrapper {
+    background-color: #111111f2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px #5f5e5e80;
+    height: 194px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 219px;
+  }
+  
+  .courses .text-wrapper-2 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 21px;
+    left: 61px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 86px;
+    white-space: nowrap;
+  }
+  
+  .courses .difficult-times-wrapper {
+    background-color: #111111f2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px #5f5e5e80;
+    height: 194px;
+    left: 0;
+    position: absolute;
+    top: 298px;
+    width: 219px;
+  }
+  
+  .courses .difficult-times {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 42px;
+    left: 49px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 75px;
+  }
+  

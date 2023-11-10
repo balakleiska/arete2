@@ -1,0 +1,185 @@
+.homepage-desktop {
+    background-color: #0b0b0b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .homepage-desktop .overlap-wrapper {
+    background-color: #0b0b0b;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .homepage-desktop .overlap {
+    height: 1024px;
+    left: 83px;
+    position: relative;
+    top: -72px;
+    width: 1458px;
+  }
+  
+  .homepage-desktop .background {
+    height: 1024px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .homepage-desktop .overlap-group {
+    height: 1024px;
+    left: -101px;
+    position: relative;
+    top: 72px;
+  }
+  
+  .homepage-desktop .ellipse {
+    height: 525px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 579px;
+  }
+  
+  .homepage-desktop .img {
+    height: 488px;
+    left: 777px;
+    position: absolute;
+    top: 536px;
+    width: 663px;
+  }
+  
+  .homepage-desktop .ellipse-2 {
+    height: 534px;
+    left: 980px;
+    position: absolute;
+    top: 0;
+    width: 439px;
+  }
+  
+  .homepage-desktop .ellipse-3 {
+    height: 488px;
+    left: 39px;
+    position: absolute;
+    top: 536px;
+    width: 659px;
+  }
+  
+  .homepage-desktop .ellipse-4 {
+    height: 329px;
+    left: 236px;
+    position: absolute;
+    top: 0;
+    width: 476px;
+  }
+  
+  .homepage-desktop .ellipse-5 {
+    height: 570px;
+    left: 291px;
+    position: absolute;
+    top: 440px;
+    width: 737px;
+  }
+  
+  .homepage-desktop .ellipse-6 {
+    height: 208px;
+    left: 1059px;
+    position: absolute;
+    top: 0;
+    width: 381px;
+  }
+  
+  .homepage-desktop .rectangle {
+    background-color: #000000;
+    height: 789px;
+    left: 0;
+    position: absolute;
+    top: 184px;
+    width: 1256px;
+  }
+  
+  .homepage-desktop .img-2 {
+    height: 47px;
+    left: 29px;
+    object-fit: cover;
+    position: absolute;
+    top: 298px;
+    width: 47px;
+  }
+  
+  .homepage-desktop .writting-bar {
+    height: 76px;
+    left: 116px;
+    position: absolute;
+    top: 831px;
+    width: 979px;
+  }
+  
+  .homepage-desktop .div {
+    background-color: #20202040;
+    border-radius: 15px;
+    box-shadow: 0px 1px 13px #000000;
+    height: 62px;
+    position: relative;
+    width: 1058px;
+  }
+  
+  .homepage-desktop .go-button {
+    height: 14px;
+    left: 1021px;
+    position: absolute;
+    top: 24px;
+    width: 14px;
+  }
+  
+  .homepage-desktop .text-wrapper {
+    color: #ffffff80;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 21px;
+    left: 48px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 19px;
+    white-space: nowrap;
+    width: 125px;
+  }
+  
+  .homepage-desktop .star {
+    height: 44px;
+    left: 27px;
+    position: absolute;
+    top: 221px;
+    width: 48px;
+  }
+  
+  .homepage-desktop .ai-settings {
+    height: 35px;
+    left: 1187px;
+    position: absolute;
+    top: 223px;
+    width: 35px;
+  }
+  
+  .homepage-desktop .text-wrapper-2 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 30px;
+    left: 495px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 225px;
+    white-space: nowrap;
+    width: 265px;
+  }
+  

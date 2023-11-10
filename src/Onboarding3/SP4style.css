@@ -1,0 +1,139 @@
+.starting {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .starting .starting-page {
+    background-color: #000000;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .starting .overlap {
+    height: 1100px;
+    left: -86px;
+    position: relative;
+    top: -40px;
+    width: 1551px;
+  }
+  
+  .starting .image {
+    height: 1100px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1551px;
+  }
+  
+  .starting .overlap-group {
+    height: 1100px;
+    position: relative;
+  }
+  
+  .starting .david-ramirez {
+    height: 1022px;
+    left: 86px;
+    object-fit: cover;
+    position: absolute;
+    top: 42px;
+    width: 1440px;
+  }
+  
+  .starting .rectangle {
+    background-color: #0000008c;
+    height: 1100px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1551px;
+  }
+  
+  .starting .group {
+    height: 151px;
+    left: 232px;
+    position: absolute;
+    top: 740px;
+    width: 977px;
+  }
+  
+  .starting .div {
+    height: 151px;
+    position: relative;
+    width: 975px;
+  }
+  
+  .starting .rectangle-2 {
+    background-color: #111111b2;
+    border-radius: 15px;
+    filter: blur(30px);
+    height: 134px;
+    left: 0;
+    position: absolute;
+    top: 17px;
+    width: 975px;
+  }
+  
+  .starting .text-wrapper {
+    color: #ffffffcc;
+    font-family: "Hubballi-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    height: 151px;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: 35px;
+    opacity: 0.8;
+    position: absolute;
+    top: 0;
+    width: 952px;
+  }
+  
+  .starting .text-wrapper-2 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 60px;
+    font-weight: 400;
+    height: 65px;
+    left: 255px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 625px;
+    white-space: nowrap;
+  }
+  
+  .starting .text-wrapper-3 {
+    color: #ffffffb2;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 21px;
+    left: 184px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 965px;
+    white-space: nowrap;
+  }
+  
+  .starting .arrow-icon-wrapper {
+    height: 30px;
+    left: 1330px;
+    position: absolute;
+    top: 946px;
+    width: 20px;
+  }
+  
+  .starting .arrow-icon {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 20px;
+  }
+  

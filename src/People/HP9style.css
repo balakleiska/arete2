@@ -1,0 +1,346 @@
+.people {
+    background-color: #0b0b0b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .people .overlap-wrapper {
+    background-color: #0b0b0b;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .people .overlap {
+    height: 1024px;
+    left: 83px;
+    position: relative;
+    top: -72px;
+    width: 1458px;
+  }
+  
+  .people .background {
+    height: 1024px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .people .overlap-group {
+    height: 1024px;
+    left: -101px;
+    position: relative;
+    top: 72px;
+  }
+  
+  .people .ellipse {
+    height: 525px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 579px;
+  }
+  
+  .people .img {
+    height: 488px;
+    left: 777px;
+    position: absolute;
+    top: 536px;
+    width: 663px;
+  }
+  
+  .people .ellipse-2 {
+    height: 534px;
+    left: 980px;
+    position: absolute;
+    top: 0;
+    width: 439px;
+  }
+  
+  .people .ellipse-3 {
+    height: 488px;
+    left: 39px;
+    position: absolute;
+    top: 536px;
+    width: 659px;
+  }
+  
+  .people .ellipse-4 {
+    height: 329px;
+    left: 236px;
+    position: absolute;
+    top: 0;
+    width: 476px;
+  }
+  
+  .people .ellipse-5 {
+    height: 570px;
+    left: 291px;
+    position: absolute;
+    top: 440px;
+    width: 737px;
+  }
+  
+  .people .ellipse-6 {
+    height: 208px;
+    left: 1059px;
+    position: absolute;
+    top: 0;
+    width: 381px;
+  }
+  
+  .people .rectangle {
+    background-color: #000000;
+    height: 789px;
+    left: 0;
+    position: absolute;
+    top: 184px;
+    width: 1256px;
+  }
+  
+  .people .frame {
+    height: 568px;
+    left: 90px;
+    overflow-y: scroll;
+    position: absolute;
+    top: 291px;
+    width: 1028px;
+  }
+  
+  .people .div-wrapper {
+    background-image: url(./epictetus-1.png);
+    background-size: 100% 100%;
+    box-shadow: 0px 0px 40px #5f5e5e80;
+    height: 169px;
+    left: 465px;
+    position: absolute;
+    top: 98px;
+    width: 168px;
+  }
+  
+  .people .text-wrapper {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 22px;
+    left: 10px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    text-align: center;
+    top: 129px;
+    white-space: nowrap;
+    width: 106px;
+  }
+  
+  .people .overlap-group-wrapper {
+    box-shadow: 0px 0px 40px #5f5e5e80;
+    height: 169px;
+    left: 772px;
+    position: absolute;
+    top: 99px;
+    width: 168px;
+  }
+  
+  .people .div {
+    background-image: url(./image-96.png);
+    background-size: 100% 100%;
+    height: 168px;
+    position: relative;
+  }
+  
+  .people .text-wrapper-2 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 22px;
+    left: 10px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    top: 129px;
+    white-space: nowrap;
+    width: 106px;
+  }
+  
+  .people .frame-2 {
+    height: 169px;
+    left: 137px;
+    position: absolute;
+    top: 98px;
+    width: 168px;
+  }
+  
+  .people .overlap-2 {
+    background-image: url(./marcus-2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 168px;
+    position: relative;
+    top: 1px;
+  }
+  
+  .people .text-wrapper-3 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 22px;
+    left: 10px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    top: 128px;
+    white-space: nowrap;
+    width: 106px;
+  }
+  
+  .people .frame-3 {
+    box-shadow: 0px 0px 40px #5f5e5e80;
+    height: 169px;
+    left: 137px;
+    position: absolute;
+    top: 374px;
+    width: 168px;
+  }
+  
+  .people .overlap-3 {
+    background-image: url(./chrysippus.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 168px;
+    left: 1px;
+    position: relative;
+    width: 167px;
+  }
+  
+  .people .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 22px;
+    left: 9px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    top: 129px;
+    white-space: nowrap;
+    width: 127px;
+  }
+  
+  .people .frame-4 {
+    height: 169px;
+    left: 465px;
+    position: absolute;
+    top: 368px;
+    width: 168px;
+  }
+  
+  .people .overlap-4 {
+    background-image: url(./image-103.png);
+    background-size: 100% 100%;
+    height: 168px;
+    position: relative;
+    top: 1px;
+  }
+  
+  .people .frame-5 {
+    background-image: url(./babylon-1-1.png);
+    background-size: 100% 100%;
+    height: 169px;
+    left: 772px;
+    position: absolute;
+    top: 368px;
+    width: 168px;
+  }
+  
+  .people .text-wrapper-5 {
+    color: #ffffffb2;
+    font-family: "Alegreya Sans SC-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 22px;
+    left: 10px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    opacity: 0.7;
+    position: absolute;
+    top: 129px;
+    white-space: nowrap;
+    width: 147px;
+  }
+  
+  .people .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Alegreya Sans SC-Thin", Helvetica;
+    font-size: 20px;
+    font-weight: 100;
+    height: 21px;
+    left: 604px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 230px;
+    white-space: nowrap;
+  }
+  
+  .people .img-2 {
+    height: 47px;
+    left: 29px;
+    object-fit: cover;
+    position: absolute;
+    top: 298px;
+    width: 47px;
+  }
+  
+  .people .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Julius Sans One-Regular", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 21px;
+    left: 352px;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 269px;
+    width: 570px;
+  }
+  
+  .people .science-brain-icon {
+    height: 62px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 208px;
+    width: 72px;
+  }
+  
+  .people .arrow-icon-wrapper {
+    height: 32px;
+    left: 177px;
+    position: absolute;
+    top: 353px;
+    width: 41px;
+  }
+  
+  .people .arrow-icon {
+    height: 24px;
+    left: 41px;
+    position: absolute;
+    top: -79px;
+    width: 15px;
+  }
+  
