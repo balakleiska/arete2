@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            position: relative;
+        }
+
+        img {
+            max-width: 100%;
+            max-height: 240%;
+            z-index: 1;
+            filter: brightness(0.7) saturate(0.5);
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.40);
+            align-items: center;
+            z-index: 2;
+        }
+
+            .header-text {
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            color: white;
+            color: rgba(255, 255, 255, 0.90);
+            font-size: 50px;
+            font-family: 'Julius Sans One', sans-serif;
+            font-weight: 300;
+            word-wrap: break-word;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-10%);
+            z-index: 3;
+        }
+
+        .header-subtext {
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            color: white;
+            color: rgba(255, 255, 255, 0.70);
+            font-size: 18px;
+            font-family: 'Julius Sans One', sans-serif;
+            font-weight: 300;
+            word-wrap: break-word;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-2%);
+            z-index: 3;
+        }
+
+        .button-container {
+            position: absolute;
+            top: 650px;
+            z-index: 3;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .button-background {
+            width: 350px;
+            height: 70px;
+            background: rgba(17, 17, 17, 0.70);
+            box-shadow: 0px 1px 7px black;
+            border-radius: 30px;
+        }
+
+        .button-text {
+            width: 100%; 
+            height: 45px;
+            text-align: center;
+            color: rgba(255, 255, 255, 0.70);
+            font-size: 22px;
+            font-family: 'Julius Sans One', sans-serif;
+            font-weight: 400;
+            word-wrap: break-word;
+            position: absolute;
+            top: 50%; 
+            transform: translateY(-25%); 
+        }
+
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="header-text">ARETÉ</div>
+    <div class="header-subtext">SLOGAN OR SMTH ELSE?¿</div>
+    <img src="https://s3-alpha-sig.figma.com/img/800b/64d5/6972112f2a4d49a1249627467d693058?Expires=1701043200&Signature=dL7mnJy15hnJBTctiBb5tLrgHlP3XmKBr4V1C-n0QmsqOg9CC7hJBW4sXgg~KHzwhoEUxs~Ve4la9Dk01VHbxgvrcChA~c3jslS9~MD6j1fSBmziW13R3Tjz4adU2FYF1qexX6I~nc6Ndf3E-Ki2z7V9-B~yNyoKiDh6WQ2aI5Oltu67hDtZJZH7wXRMEygd1quyUbEM23XSblvTwA0LlF7kHVYHP0ohUwB2SvT81FOvnclXlLeT~ytthVtKP1FyIyFngoqTCZb~oNTlpajBXX-2IZddDyVKPEhPMvvORgpyGxpuICJDmq08rhI5x73MlDErQ1T6onZqHwcrWkJgQQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" 
+        alt="Starting Page background image">
+    
+    <div class="button-container">
+        <div class="button-background"></div>
+        <div class="button-text">Get Started</div>
+    </div>
+</body>
+</html>
